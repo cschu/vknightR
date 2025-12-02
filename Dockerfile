@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM r-base:4.5.2
 
 LABEL maintainer="cschu1981@gmail.com"
 LABEL version="0.16.0"
